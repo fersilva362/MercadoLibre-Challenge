@@ -8,7 +8,7 @@ This challenge is an e-commerce app of MercadoLibre. It was entirely developed u
 #### ProductPage Section (Add items, Ask & Answer Section)
 ![image](https://user-images.githubusercontent.com/78646102/234115039-31886508-e04d-46cb-a33a-6f412b1a6afa.png)
 ![image](https://user-images.githubusercontent.com/78646102/234119659-08e222bd-4a99-4c2b-858f-bfcb3f37d0f5.png)
-#### CartPage Section (Add items, Ask & Answer Section)
+#### CartPage Section (update or remove items)
 ![image](https://user-images.githubusercontent.com/78646102/234121285-1d09b03f-1271-4e4e-b314-f392342aacf2.png)
 
 
