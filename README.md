@@ -3,9 +3,14 @@ This challenge is an e-commerce app of MercadoLibre. It was entirely developed u
 
 ## Below I pasted two *screenshot* of the app and alink to the [App](https://ubiquitous-sfogliatella-030ec9.netlify.app/): 
 ### ScreeCaptures
+#### HomePage Section
 ![image](https://user-images.githubusercontent.com/78646102/234114795-aaa1ac26-4f3b-41cd-99c0-a891f2fa058b.png)
+#### ProductPage Section (Add items, Ask & Answer Section)
 ![image](https://user-images.githubusercontent.com/78646102/234115039-31886508-e04d-46cb-a33a-6f412b1a6afa.png)
 ![image](https://user-images.githubusercontent.com/78646102/234119659-08e222bd-4a99-4c2b-858f-bfcb3f37d0f5.png)
+#### CartPage Section (Add items, Ask & Answer Section)
+![image](https://user-images.githubusercontent.com/78646102/234121285-1d09b03f-1271-4e4e-b314-f392342aacf2.png)
+
 
 # Link to the [App](https://ubiquitous-sfogliatella-030ec9.netlify.app/)
 
